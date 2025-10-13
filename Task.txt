@@ -10,3 +10,5 @@ you can give two employee names and their designation and salary as constants in
 Sample output:
 	EmployeeName: Karthik , Designation: Associate , Salary: 10000 Bonus: 500, NetSalary: 10500
 	EmployeeName: Harish , Designation: Manager , Salary: 20000 Bonus: 2000, NetSalary: 22000
+
+added a modification
