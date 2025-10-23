@@ -12,5 +12,5 @@ Sample output:
 	EmployeeName: Harish , Designation: Manager , Salary: 20000 Bonus: 2000, NetSalary: 22000
 
 added a modification
-Alice Change
+Alice Changes
 added another modification
